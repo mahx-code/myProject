@@ -1,2 +1,2 @@
-def sum():
-    print(f"The sum of 5 + 6 is {5+6}")
+def sum(a, b):
+    print(f"The sum of {a} + {b} is {a+b}")
